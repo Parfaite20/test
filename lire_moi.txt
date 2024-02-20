@@ -1,0 +1,21 @@
+La technologie utilsée pour le projet est laravel
+
+Assurez-vous d'avoir installé laravel sur votre pc;
+
+Utiser la base de donées qui est dans le dossier du projet du nom de base_livre;
+
+Les identfiants de l'admin
+admin@gmail.com
+Gilo@123
+
+
+Récuperation du projet
+_git clone avec le lien https;
+_acceder au dossier du projet avec cd <nom du projet>;
+_Executer composer install;
+_Ouvrir votre code avec un editeur de texte;
+_créer un fichier .env;
+_copier le contenu du fichier .env.example;
+_changer le nom de la base de donnée;
+_générer une clé avec cette commande: php artisan key:generate;
+
